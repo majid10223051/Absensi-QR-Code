@@ -1,1 +1,3 @@
-# Absensi-QR-Code
+pw
+username : superadmin
+password : superadmin
